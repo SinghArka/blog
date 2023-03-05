@@ -28,11 +28,12 @@ body {
 /* Left column */
 .leftcolumn {   
   float: left;
-  width: 60%;
+  width: 100%;
 }
 
 /* Right column */
 .rightcolumn {
+  display: none;
   float: right;
   width: 40%;
 }
